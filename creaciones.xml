@@ -1,11 +1,12 @@
 
 <context>   
-
+<input pattern="* $Color"/>
 <sample>
   <item value="White"/>
   <item value="Blue"/>
   <item value="Red"/>
 </sample>
+</input>
 
 </context>
 
