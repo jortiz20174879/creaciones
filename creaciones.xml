@@ -1,7 +1,6 @@
 
   <context>   
-<input pattern="(hi|hello) *">
-  <output value="Hi! What is your favorite color?"/>
+
 
  
     <sample>
@@ -12,8 +11,7 @@
     <input pattern="* $Color *">
       <output value="Nice! I like it too!"/>
     </input>
- 
-</input>
+
 </context>
 
 
