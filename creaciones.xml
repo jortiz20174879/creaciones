@@ -1,11 +1,12 @@
 
 
   <context>
-    <input pattern="* $Color"/>
-    <sample>
-      <item>Green</item>
-      <item>Blue</item>
-      <item>Red</item>
-    </sample>
+<input pattern="(hi|hello) *">
+  <output>
+    <item>Hi!</item>
+    <item>Hello!</item>
+    <item>Good morning $UserName!</item>
+  </output>
+</input>
   </context>
 
