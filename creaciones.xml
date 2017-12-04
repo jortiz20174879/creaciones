@@ -3,7 +3,7 @@
   <context>
 <input pattern="(hi|hello) *">
   <output>
-       <![CDATA[
+ <![CDATA[
       {
         "attachment":{
           "type":"template",
@@ -13,7 +13,7 @@
               {
                 "title":"Welcome to Peter\'s Hats",
                 "item_url":"https://petersfancybrownhats.com",
-                "image_url":"https://petersfancybrownhats.com/company_image.png",
+                "image_url":"https://preview.ibb.co/eWOR4b/Sea_turtle_ocean_underwater_yellow_and_brown_fish_1920x1080.jpg",
                 "subtitle":"We\'ve got the right hat for everyone.",
                 "buttons":[
                   {
@@ -31,8 +31,9 @@
             ]
           }
       }
+	  }
     ]]>
   </output>
 </input>
-  </context>
+</context>
 
