@@ -1,7 +1,7 @@
 
 
   <context>
-<input pattern="(hi|hello) *">
+<input pattern="(hola|hello) *">
   <output>
  <![CDATA[
       {
