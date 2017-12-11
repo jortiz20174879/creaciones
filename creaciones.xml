@@ -1,8 +1,9 @@
-	<context>
-				
-					<sample>
-						  <item>Green</item>
-						  <item>Blue</item>
-						  <item>Red</item>
-					</sample>
-			</context>
+  <context>
+    <input pattern="(Hi|Hello)*">
+    <sample>
+      <item>Green</item>
+      <item>Blue</item>
+      <item>Red</item>
+	    </sample>
+	  </input>
+  </context>
