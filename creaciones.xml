@@ -11,4 +11,38 @@
     	</sample>
     </output>
   </input>
+  <input pattern="Pijamas">
+    <output>
+ <![CDATA[
+      {
+        "attachment":{
+          "type":"template",
+          "payload":{
+            "template_type":"generic",
+            "elements":[
+              {
+                "title":"Mesa\'s Hats",
+                "item_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
+                "image_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
+                "subtitle":"We\'ve got the right hat for everyone.",
+                "buttons":[
+                  {
+                    "type":"web_url",
+                    "url":"https://petersfancybrownhats.com",
+                    "title":"Ver Prenda"
+                  },
+                  {
+                    "type":"postback",
+                    "title":"Start Chatting",
+                    "payload":"DEVELOPER_DEFINED_PAYLOAD"
+                  }              
+                ]
+              }
+            ]
+          }
+      }
+	  }
+    ]]>
+  </output>
+  </input>
   </context>
