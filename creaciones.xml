@@ -13,7 +13,7 @@
 		  </input>
 		  <input pattern="Pijamas">
 			<output>
-			<item>Te interesan otras prendas?</item>
+	
 		 <![CDATA[
 			  {
 				"attachment":{
@@ -52,7 +52,7 @@
 		  
 		  		  <input pattern="Faldas">
 			<output>
-			<item>Te interesan otras prendas?</item>
+			
 		 <![CDATA[
 			  {
 				"attachment":{
@@ -93,7 +93,7 @@
 		  
 		  		  <input pattern="Blusas">
 			<output>
-			<item>Te interesan otras prendas?</item>
+			
 		 <![CDATA[
 			  {
 				"attachment":{
