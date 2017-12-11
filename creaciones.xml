@@ -1,6 +1,8 @@
   <context>
     <input pattern="(Hi|Hello) *">
-	    <output>Hola, quieres ver mi coleccióm de prendas?</output>
+	    <output>
+		    <item>Hola, quieres ver mi coleccióm de prendas?</item>
+	    </output>
   <output>
 	<sample>
 	      <item>Pijamas</item>
