@@ -1,7 +1,7 @@
 		  <context>
 			<input pattern="(hola|norma) *">
 				<output>
-					<item>Hola, quieres ver mi coleccióm de prendas?</item>
+					<item>Hola, quieres ver mi colección de prendas?</item>
 				</output>
 		  <output>
 			<sample>
@@ -13,6 +13,7 @@
 		  </input>
 		  <input pattern="Pijamas">
 			<output>
+			<item>Te interesan otras prendas?</item>
 		 <![CDATA[
 			  {
 				"attachment":{
@@ -43,7 +44,7 @@
 			  }
 			  }
 			]]>
-			<item>Hola, quieres ver mi coleccióm de prendas?</item>
+			
 		  </output>
 		  				
 		  </input>
@@ -51,6 +52,7 @@
 		  
 		  		  <input pattern="Faldas">
 			<output>
+			<item>Te interesan otras prendas?</item>
 		 <![CDATA[
 			  {
 				"attachment":{
@@ -81,7 +83,7 @@
 			  }
 			  }
 			]]>
-			<item>Hola, quieres ver mi coleccióm de prendas?</item>
+			
 		  </output>
 		 
 					
@@ -91,6 +93,7 @@
 		  
 		  		  <input pattern="Blusas">
 			<output>
+			<item>Te interesan otras prendas?</item>
 		 <![CDATA[
 			  {
 				"attachment":{
@@ -121,7 +124,7 @@
 			  }
 			  }
 			]]>
-			<item>Hola, quieres ver mi coleccióm de prendas?</item>
+			
 		  </output>
 		 
 		  </input>
