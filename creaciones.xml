@@ -1,5 +1,5 @@
   <context>
-    <input pattern="(Hi|Hello)*">
+    <input pattern="(Hi|Hello) *">
     <sample>
       <item>Green</item>
       <item>Blue</item>
