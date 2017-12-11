@@ -1,73 +1,12 @@
-
+<input pattern="(hi|hello) *">
+  <output value="Hi! What is your favorite color?"/>
 
   <context>
-<input pattern="(hola|hello) *">
-  <output>
- <![CDATA[
-      {
-        "attachment":{
-          "type":"template",
-          "payload":{
-            "template_type":"generic",
-            "elements":[
-              {
-                "title":"Mesa\'s Hats",
-                "item_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
-                "image_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
-                "subtitle":"We\'ve got the right hat for everyone.",
-                "buttons":[
-                  {
-                    "type":"web_url",
-                    "url":"https://petersfancybrownhats.com",
-                    "title":"Ver Prenda"
-                  },
-                  {
-                    "type":"postback",
-                    "title":"Start Chatting",
-                    "payload":"DEVELOPER_DEFINED_PAYLOAD"
-                  }              
-                ]
-              }
-            ]
-          }
-      }
-	  }
-    ]]>
-  </output>
+    <input pattern="* $Color"/>
+    <sample>
+      <item>Green</item>
+      <item>Blue</item>
+      <item>Red</item>
+    </sample>
+  </context>
 </input>
-	  <input pattern="(adios|bye) *">
-  <output>
- <![CDATA[
-      {
-        "attachment":{
-          "type":"template",
-          "payload":{
-            "template_type":"generic",
-            "elements":[
-              {
-                "title":"Mesa\'s Hats",
-                "item_url":"https://petersfancybrownhats.com",
-                "image_url":"https://image.ibb.co/cYsQxw/1512349469136_1362466024.jpg",
-                "subtitle":"Mesa de madera de cedro $100",
-                "buttons":[
-                  {
-                    "type":"web_url",
-                    "url":"https://petersfancybrownhats.com",
-                    "title":"Ver Prenda"
-                  },
-                  {
-                    "type":"postback",
-                    "title":"Start Chatting",
-                    "payload":"DEVELOPER_DEFINED_PAYLOAD"
-                  }              
-                ]
-              }
-            ]
-          }
-      }
-	  }
-    ]]>
-  </output>
-</input>
-</context>
-
