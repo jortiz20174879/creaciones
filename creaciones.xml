@@ -43,10 +43,9 @@
 			  }
 			  }
 			]]>
+			<item>Hola, quieres ver mi coleccióm de prendas?</item>
 		  </output>
-		  <output>
-					<item>Hola, quieres ver mi coleccióm de prendas?</item>
-				</output>
+		  				
 		  </input>
 		  
 		  
@@ -82,10 +81,11 @@
 			  }
 			  }
 			]]>
+			<item>Hola, quieres ver mi coleccióm de prendas?</item>
 		  </output>
-		  <output>
-					<item>Hola, quieres ver mi coleccióm de prendas?</item>
-				</output>
+		 
+					
+				
 		  </input>
 		  
 		  
@@ -121,10 +121,9 @@
 			  }
 			  }
 			]]>
+			<item>Hola, quieres ver mi coleccióm de prendas?</item>
 		  </output>
-		  <output>
-					<item>Hola, quieres ver mi coleccióm de prendas?</item>
-				</output>
+		 
 		  </input>
 		  
 		  </context>
