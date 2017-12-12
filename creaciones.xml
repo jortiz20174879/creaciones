@@ -51,12 +51,8 @@
 								"type":"web_url",
 								"url":"https://petersfancybrownhats.com",
 								"title":"Ver Prenda"
-								},
-								{
-								"type":"postback",
-								"title":"Start Chatting",
-								"payload":"DEVELOPER_DEFINED_PAYLOAD"
-								}              
+								}
+								              
 							]
 							}
 						]
