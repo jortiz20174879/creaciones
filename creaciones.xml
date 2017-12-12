@@ -14,17 +14,49 @@
 		  <input pattern="Pijamas">
 
 			<output>
- <item value="First output"/>
-  <item value="Second output"/>
-					</output>
 	
+		 <![CDATA[
+			  {
+				"attachment":{
+				  "type":"template",
+				  "payload":{
+					"template_type":"generic",
+					"elements":[
+					  {
+						"title":"Pijama",
+						"item_url":"https://image.ibb.co/jNhfPb/p1.jpg",
+						"image_url":"https://image.ibb.co/jNhfPb/p1.jpg",
+						"subtitle":"Cómoda pijama elaborada de algodón.",
+						"buttons":[
+						  {
+							"type":"web_url",
+							"url":"https://petersfancybrownhats.com",
+							"title":"Ver Prenda"
+						  },
+						  {
+							"type":"postback",
+							"title":"Start Chatting",
+							"payload":"DEVELOPER_DEFINED_PAYLOAD"
+						  }              
+						]
+					  }
+					]
+				  }
+			  }
+			  }
+			]]>
+
+		
+			
+		  </output>
+			
 		  				
 		  </input>
 		  
 		  
 		  		  <input pattern="Faldas">
 			<output>
-			<item>
+			
 		 <![CDATA[
 			  {
 				"attachment":{
@@ -42,15 +74,19 @@
 							"type":"web_url",
 							"url":"https://petersfancybrownhats.com",
 							"title":"Ver Prenda"
-						  }					        
+						  },
+						  {
+							"type":"postback",
+							"title":"Start Chatting",
+							"payload":"DEVELOPER_DEFINED_PAYLOAD"
+						  }              
 						]
 					  }
 					]
 				  }
 			  }
 			  }
-			]]></item>
-			<item>resto</item>
+			]]>
 			
 		  </output>
 		 
@@ -79,7 +115,12 @@
 							"type":"web_url",
 							"url":"https://petersfancybrownhats.com",
 							"title":"Ver Prenda"
-						  }						              
+						  },
+						  {
+							"type":"postback",
+							"title":"Start Chatting",
+							"payload":"DEVELOPER_DEFINED_PAYLOAD"
+						  }              
 						]
 					  }
 					]
