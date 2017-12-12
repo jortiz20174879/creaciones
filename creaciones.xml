@@ -32,17 +32,7 @@
 							"type":"web_url",
 							"url":"https://petersfancybrownhats.com",
 							"title":"Ver Prenda"
-						  },
-						  {
-							"type":"postback",
-							"title":"Start Chatting",
-							"payload":"DEVELOPER_DEFINED_PAYLOAD"
-						  } ,
-							{
-							"type":"postback",
-							"title":"Start Chatting",
-							"payload":"DEVELOPER_DEFINED_PAYLOAD"
-						  }            
+						  }						          
 						]
 					  }
 					]
@@ -51,7 +41,7 @@
 			  }
 			]]>
 
-		
+		<input pattern="Pijamas">
 			
 		  </output>
 				<output>	
@@ -61,6 +51,7 @@
 							<item>Faldas</item>
 					</sample>
 				</output>
+				</input>
 		  				
 		  </input>
 		  
@@ -85,12 +76,7 @@
 							"type":"web_url",
 							"url":"https://petersfancybrownhats.com",
 							"title":"Ver Prenda"
-						  },
-						  {
-							"type":"postback",
-							"title":"Start Chatting",
-							"payload":"DEVELOPER_DEFINED_PAYLOAD"
-						  }              
+						  }					        
 						]
 					  }
 					]
@@ -126,12 +112,7 @@
 							"type":"web_url",
 							"url":"https://petersfancybrownhats.com",
 							"title":"Ver Prenda"
-						  },
-						  {
-							"type":"postback",
-							"title":"Start Chatting",
-							"payload":"DEVELOPER_DEFINED_PAYLOAD"
-						  }              
+						  }						              
 						]
 					  }
 					]
