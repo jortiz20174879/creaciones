@@ -12,6 +12,7 @@
 			</output>
 		  </input>
 		  <input pattern="Pijamas">
+			  <output><item>Deseas buscar otra cosa?</item></output>
 			<output>
 	
 		 <![CDATA[
