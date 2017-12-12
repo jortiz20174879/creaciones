@@ -14,18 +14,8 @@
 		  <input pattern="Pijamas">
 
 			<output>
-				  <item>
-    <![CDATA[
-      <h3>Here is your name</h3>
-      <a href="somewebsite.com">$UserName</a>
-    ]]>
-  </item>
-  <item>
-    <![CDATA[
-      <h3>Well, there is your name</h3>
-      <a href="somewebsite.com">$UserName</a>
-    ]]>
-  </item>
+ <item value="First output"/>
+  <item value="Second output"/>
 					</output>
 	
 		  				
