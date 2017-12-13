@@ -34,6 +34,26 @@
 			  }
 			]]>
 
+
+			<![CDATA[
+			  {
+				"attachment":{
+				  "type":"template",
+				  "payload":{
+					"template_type":"generic",
+					"elements":[
+					  {
+						"title":"Pijama Coral 3",
+						"item_url":"https://image.ibb.co/mYaNpm/p3.jpg",
+						"image_url":"https://image.ibb.co/mYaNpm/p3.jpg",
+						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."
+									  }
+					]
+				  }
+			  }
+			  }
+			]]>
+
 		
 			
 		  </output>
