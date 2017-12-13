@@ -1,22 +1,19 @@
-		  <context>
-			<input pattern="(hola|norma) *">
-				<output>
-					<item>Hola, quieres ver mi colección de prendas?</item>
-				</output>
-		  <output>
-			<sample>
-				  <item>Pijamas</item>
-				  <item>Blusas</item>
-				  <item>Faldas</item>
-				</sample>
-			</output>
-		  </input>
-		  <input pattern="Pijamas">
 
-			<output>
-	
-		 <![CDATA[
-			  {
+<context>
+   <input pattern="(hola|norma) *">
+      <output>
+         <item>Hola, quieres ver mi colección de prendas?</item>
+      </output>
+      <output>
+         <sample>
+            <item>Pijamas</item>
+            <item>Blusas</item>
+            <item>Faldas</item>
+         </sample>
+      </output>
+   </input>
+   <input pattern="Pijamas">
+      <output><![CDATA[{
 				"attachment":{
 				  "type":"template",
 				  "payload":{
@@ -28,79 +25,27 @@
 						"image_url":"https://image.ibb.co/cnwTUm/p2.jpg",
 						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."					
 					  },
-						{
-						"title":"Pijama Coral 2",
-						"item_url":"https://image.ibb.co/cnwTUm/p2.jpg",
-						"image_url":"https://image.ibb.co/cnwTUm/p2.jpg",
-						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."					
-					  }
-					]
-				  }
-			  }
-			  }
-					]]>		
-	
-		  </output>
-		
-			
-		  				
-		  </input>
-		  
-		  
-		  		  <input pattern="Faldas">
-			<output>
-			
-		 <![CDATA[
-			  {
-				"attachment":{
-				  "type":"template",
-				  "payload":{
-					"template_type":"generic",
-					"elements":[
-					  {
+						  {
 						"title":"Pijama Coral 3",
 						"item_url":"https://image.ibb.co/mYaNpm/p3.jpg",
 						"image_url":"https://image.ibb.co/mYaNpm/p3.jpg",
 						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."
-									  }
-					]
-				  }
-			  }
-			  }
-			]]>
-			
-		  </output>
-		 
-					
-				
-		  </input>
-		  
-		  
-		  		  <input pattern="Blusas">
-			<output>
-			
-		 <![CDATA[
-			  {
-				"attachment":{
-				  "type":"template",
-				  "payload":{
-					"template_type":"generic",
-					"elements":[
-					  {
+									  },
+						  {
 						"title":"Pijama Jersey",
 						"item_url":"https://image.ibb.co/h44F9m/p4.jpg",
 						"image_url":"https://image.ibb.co/h44F9m/p4.jpg",
-						"subtitle":"Cómoda pijama elaborada de algodón en tonos blancos y floreado."
-						
-					  }
-					]
+						"subtitle":"Cómoda pijama elaborada de algodón en tonos blancos y floreado."						
+					  },
+						{
+						"title":"Pijama Coral 5",
+						"item_url":"https://image.ibb.co/b3ya9m/p5.jpg",
+						"image_url":"https://image.ibb.co/b3ya9m/p5.jpg",
+						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."						
+					  }					]
 				  }
 			  }
-			  }
-			]]>
-			
-		  </output>
-		 
-		  </input>
-		  
-		  </context>
+			  }]]></output>
+   </input>
+
+</context>
