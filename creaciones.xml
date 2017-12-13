@@ -24,21 +24,9 @@
 					"elements":[
 					  {
 						"title":"Pijama",
-						"item_url":"https://image.ibb.co/jNhfPb/p1.jpg",
-						"image_url":"https://image.ibb.co/jNhfPb/p1.jpg",
-						"subtitle":"Cómoda pijama elaborada de algodón.",
-						"buttons":[
-						  {
-							"type":"web_url",
-							"url":"https://petersfancybrownhats.com",
-							"title":"Ver Prenda"
-						  },
-						  {
-							"type":"postback",
-							"title":"Start Chatting",
-							"payload":"DEVELOPER_DEFINED_PAYLOAD"
-						  }              
-						]
+						"item_url":"https://image.ibb.co/cnwTUm/p2.jpg",
+						"image_url":"https://image.ibb.co/cnwTUm/p2.jpg",
+						"subtitle":"Cómoda pijama elaborada de algodón."					
 					  }
 					]
 				  }
@@ -66,8 +54,8 @@
 					"elements":[
 					  {
 						"title":"Mesa\'s Hats",
-						"item_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
-						"image_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
+						"item_url":"https://image.ibb.co/mYaNpm/p3.jpg",
+						"image_url":"https://image.ibb.co/mYaNpm/p3.jpg",
 						"subtitle":"We\'ve got the right hat for everyone.",
 						"buttons":[
 						  {
@@ -107,8 +95,8 @@
 					"elements":[
 					  {
 						"title":"Mesa\'s Hats",
-						"item_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
-						"image_url":"https://image.ibb.co/b0hcxw/1512539087228_1830842741.jpg",
+						"item_url":"https://image.ibb.co/h44F9m/p4.jpg",
+						"image_url":"https://image.ibb.co/h44F9m/p4.jpg",
 						"subtitle":"We\'ve got the right hat for everyone.",
 						"buttons":[
 						  {
