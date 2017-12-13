@@ -25,13 +25,13 @@
 						"image_url":"https://image.ibb.co/cnwTUm/p2.jpg",
 						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."					
 					  },
-						  {
+						{
 						"title":"Pijama Coral 3",
 						"item_url":"https://image.ibb.co/mYaNpm/p3.jpg",
 						"image_url":"https://image.ibb.co/mYaNpm/p3.jpg",
 						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."
-									  },
-						  {
+						},
+						{
 						"title":"Pijama Jersey",
 						"item_url":"https://image.ibb.co/h44F9m/p4.jpg",
 						"image_url":"https://image.ibb.co/h44F9m/p4.jpg",
@@ -42,7 +42,8 @@
 						"item_url":"https://image.ibb.co/b3ya9m/p5.jpg",
 						"image_url":"https://image.ibb.co/b3ya9m/p5.jpg",
 						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."						
-					  }					]
+					  }				
+						]
 				  }
 			  }
 			  }]]></output>
