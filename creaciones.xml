@@ -54,4 +54,10 @@
 	 </output>
 	 </input>
 
+	 <input pattern="Blusas">
+	 <output>
+	 <item>Ups! Aún no tengos fotos de este producto &#128517;</item>
+	 </output>
+	 </input>
+
 </context>
