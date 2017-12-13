@@ -23,7 +23,7 @@
 						"title":"Pijama Coral 2",
 						"item_url":"https://image.ibb.co/cnwTUm/p2.jpg",
 						"image_url":"https://image.ibb.co/cnwTUm/p2.jpg",
-						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila.&#128525"					
+						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."					
 					  },
 						{
 						"title":"Pijama Coral 3",
@@ -50,7 +50,7 @@
    </input>
 	 <input pattern="Faldas">
 	 <output>
-	 <item>Ups! Aún no tengos fotos de este producto
+	 <item>Ups! Aún no tengos fotos de este producto &#128517</item>
 	 </output>
 	 </input>
 
