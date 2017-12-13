@@ -23,10 +23,10 @@
 					"template_type":"generic",
 					"elements":[
 					  {
-						"title":"Pijama",
+						"title":"Pijama Coral 2",
 						"item_url":"https://image.ibb.co/cnwTUm/p2.jpg",
 						"image_url":"https://image.ibb.co/cnwTUm/p2.jpg",
-						"subtitle":"Cómoda pijama elaborada de algodón."					
+						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."					
 					  }
 					]
 				  }
@@ -53,23 +53,11 @@
 					"template_type":"generic",
 					"elements":[
 					  {
-						"title":"Mesa\'s Hats",
+						"title":"Pijama Coral 3",
 						"item_url":"https://image.ibb.co/mYaNpm/p3.jpg",
 						"image_url":"https://image.ibb.co/mYaNpm/p3.jpg",
-						"subtitle":"We\'ve got the right hat for everyone.",
-						"buttons":[
-						  {
-							"type":"web_url",
-							"url":"https://petersfancybrownhats.com",
-							"title":"Ver Prenda"
-						  },
-						  {
-							"type":"postback",
-							"title":"Start Chatting",
-							"payload":"DEVELOPER_DEFINED_PAYLOAD"
-						  }              
-						]
-					  }
+						"subtitle":"Cómoda pijama elaborada de algodón en tonos coral y lila."
+									  }
 					]
 				  }
 			  }
@@ -94,22 +82,11 @@
 					"template_type":"generic",
 					"elements":[
 					  {
-						"title":"Mesa\'s Hats",
+						"title":"Pijama Jersey",
 						"item_url":"https://image.ibb.co/h44F9m/p4.jpg",
 						"image_url":"https://image.ibb.co/h44F9m/p4.jpg",
-						"subtitle":"We\'ve got the right hat for everyone.",
-						"buttons":[
-						  {
-							"type":"web_url",
-							"url":"https://petersfancybrownhats.com",
-							"title":"Ver Prenda"
-						  },
-						  {
-							"type":"postback",
-							"title":"Start Chatting",
-							"payload":"DEVELOPER_DEFINED_PAYLOAD"
-						  }              
-						]
+						"subtitle":"Cómoda pijama elaborada de algodón en tonos blancos y floreado."
+						
 					  }
 					]
 				  }
