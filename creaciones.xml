@@ -47,7 +47,16 @@
 				  }
 			  }
 			  }]]>
-				</output>		
+				</output>
+				<context>
+				<output>
+         <sample>
+            <item>Pijamas</item>
+            <item>Blusas</item>
+            <item>Faldas</item>
+         </sample>
+      </output>	
+				</context>	
    </input>
 	 <input pattern="Faldas">
 	 <output>
