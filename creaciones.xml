@@ -14,7 +14,7 @@
 		  <input pattern="Pijamas">
 
 			<output>
-	
+	<item>
 		 <![CDATA[
 			  {
 				"attachment":{
@@ -31,8 +31,12 @@
 					]
 				  }
 			  }
-			  },
-
+			  }
+					]]>	
+				</item>
+<item>
+				
+				 <![CDATA[
 				{
 				"attachment":{
 				  "type":"template",
@@ -50,14 +54,7 @@
 			  }
 			  }
 			]]>	
-
-
-		
-	
-		
-
-		
-			
+			</item>		
 		  </output>
 			
 		  				
