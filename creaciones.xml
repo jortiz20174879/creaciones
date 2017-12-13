@@ -32,13 +32,8 @@
 				  }
 			  }
 			  }
-			]]>
-			</output>
-			<output>
 
-
-			<![CDATA[
-			  {
+				{
 				"attachment":{
 				  "type":"template",
 				  "payload":{
@@ -54,7 +49,12 @@
 				  }
 			  }
 			  }
-			]]>
+			]]>	
+
+
+		
+	
+		
 
 		
 			
