@@ -48,8 +48,8 @@
 				  }
 			  }
 			  }]]>
-				</output>
-				<context>
+			
+	<context>
 			   <output>
          <sample>
             <item>Pijamas</item>
@@ -58,6 +58,7 @@
          </sample>
       </output>
 				</context>
+					</output>
 
 
 			
