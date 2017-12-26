@@ -15,7 +15,8 @@
 	 
    <input pattern="Pijamas">
 
-      <output value="Mira estos modelos"><![CDATA[{
+      <output value="Mira estos modelos">
+			<output><![CDATA[{
 				"attachment":{
 				  "type":"template",
 				  "payload":{
