@@ -81,6 +81,6 @@
 
 
 
-<input pattern="* estas *">
+<input pattern="(estas|va) *">
 <output value="Muy bien"/>
 </context>
