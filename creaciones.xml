@@ -80,7 +80,7 @@
 	 </input>
 
 
-<context>
+
 <input pattern="* estas *">
 <output value="Muy bien"/>
 </context>
