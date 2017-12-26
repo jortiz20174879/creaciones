@@ -78,9 +78,11 @@
          </sample>
       </output>
 	 </input>
+	<context>
+<input pattern="* estas *"/>
+<output value="Muy bien"/>
+	
+</context>
 
 </context>
-<context>
-<input pattern="* estas *">
-<output value="Muy bien"/>
-</context>
+
