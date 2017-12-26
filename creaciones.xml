@@ -12,6 +12,7 @@
          </sample>
       </output>
    </input>
+	 
    <input pattern="Pijamas">
 
       <output><![CDATA[{
@@ -78,4 +79,8 @@
       </output>
 	 </input>
 
+</context>
+<context>
+<input pattern="* estas *">
+<output value="Muy bien"/>
 </context>
