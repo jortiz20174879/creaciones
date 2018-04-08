@@ -81,8 +81,6 @@
       </output>
 	 </input>
 
-
-
 <input pattern="*(estas|va)*">
 <output value="Muy bien"/>
 </input>
