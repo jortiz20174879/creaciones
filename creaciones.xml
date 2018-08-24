@@ -13,7 +13,7 @@
       </output>
    </input>
 	 
-   <input pattern="Pijamas">
+<input pattern="Pijamas">
 
      
 			<output><![CDATA[{
